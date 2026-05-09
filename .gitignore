@@ -2,3 +2,4 @@
 dungeon
 *.exe
 *.test
+go.mod
