@@ -1,0 +1,5 @@
+.idea/
+dungeon
+*.exe
+*.test
+go.mod
